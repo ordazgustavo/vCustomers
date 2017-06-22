@@ -1,6 +1,6 @@
-# vcustomers
+# vCustomers
 
-> Simple customer manager
+> Simple customer manager app built with Vue.js to be used with [RESTful API](https://github.com/ordazgustavo/slimapp)
 
 ## Build Setup
 
